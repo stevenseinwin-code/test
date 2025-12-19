@@ -1,2 +1,16 @@
 Initial version
+<<<<<<< HEAD
 Critical hotfix
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Feature A work 1
+Feature A work 2
+=======
+Feature B work 1
+>>>>>>> feature-B
+=======
+Feature C work 1
+Feature C work 2
+>>>>>>> feature-C
+>>>>>>> develop
