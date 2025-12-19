@@ -1,3 +1,2 @@
 Initial version
-Feature A work 1
-Feature A work 2
+Feature B work 1
