@@ -1,2 +1,9 @@
 Initial version
 Feature B work 1
+<<<<<<< Updated upstream
+=======
+>>>>>>> feature-B
+=======
+Feature C work 1
+Feature C work 2
+>>>>>>> Stashed changes
